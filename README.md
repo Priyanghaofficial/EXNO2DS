@@ -53,7 +53,8 @@ import seaborn as sns
 ![image](https://github.com/user-attachments/assets/58ebb550-c50c-41c2-af06-a88988b146d8)
 ![image](https://github.com/user-attachments/assets/dae22646-e3e0-411d-92ed-c7748a05c005)
 
+![image](https://github.com/user-attachments/assets/325e2ab2-fde9-4d8f-893e-420dd35a7685)
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+           Hence performing Exploratory Data Analysis on the given data set is successful
